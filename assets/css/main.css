@@ -2443,3 +2443,19 @@ input, select, textarea {
 					}
 
 	}
+
+/* Custom */
+
+.responsive-iframe {
+	width: 100%;
+	aspect-ratio: 4 / 3; /* Change to your desired ratio */
+	border: none;
+	display: block;
+}
+
+.my-caption {
+	font-size: 0.8em;
+	text-align: justify;
+	margin-top: 0.5em;
+	line-height: 1.2;
+}
