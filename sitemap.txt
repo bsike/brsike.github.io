@@ -6,4 +6,5 @@ https://astro.brsike.com/cv/
 https://astro.brsike.com/projects/
 https://astro.brsike.com/projects/outflows/
 https://astro.brsike.com/projects/starclusters/
+https://astro.brsike.com/projects/starclusters/interactive/
 https://astro.brsike.com/projects/tallbox/
